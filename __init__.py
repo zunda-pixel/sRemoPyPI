@@ -1,4 +1,4 @@
-from .api import sRemoAPI
+from sRemoAPI import sRemoAPI
 
 __all__ = [
     "sRemoAPI",

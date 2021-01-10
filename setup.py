@@ -9,10 +9,10 @@ with open("LICENSE", "r") as f:
 
 setup(
     name="sRemoAPI",
-    version="1.0.9",
+    version="1.0.0",
     author="zunda(@zunda_pixel)",
     author_email="zunda.pixel@gmail.com",
-    description="Python client for sRemo API",
+    description="Python client for sRemo(sCloud) API",
     url="https://github.com/zunda-pixel/sRemo",
     long_description=description,
     long_description_content_type="text/markdown",

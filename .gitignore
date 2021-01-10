@@ -2,3 +2,4 @@ sRemoAPI.egg-info
 dist
 build
 .DS_Store
+test.py

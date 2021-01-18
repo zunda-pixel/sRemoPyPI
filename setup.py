@@ -11,7 +11,6 @@ setup(
     author_email="zunda.pixel@gmail.com",
     description="Python client for sRemo(sCloud) API",
     url="https://github.com/zunda-pixel/sRemo",
-    long_description_content_type="text/markdown",
-    license=license,
+    license="MIT",
     packages=find_packages(exclude="sRemo")
 )

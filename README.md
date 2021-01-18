@@ -11,7 +11,8 @@ httpのGET/POSTで家電の操作が可能です。
 このsRemoAPIのExample Code(.ipynb)をGoogle Colabで確認できるようにしています。
 
 ## Install
-
+PyPIにアップロードしたので、pipでインストール可能です。
+[PyPI sRemoAPI](https://pypi.org/project/sRemoAPI/)
 ```shell
 pip install sRemoAPI
 ```

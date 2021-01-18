@@ -5,7 +5,7 @@ with open("LICENSE", "r") as f:
     license = f.readline()
 
 setup(
-    name="sRemoAPI",
+    name="sRemo",
     version="1.0.0",
     author="zunda(@zunda_pixel)",
     author_email="zunda.pixel@gmail.com",

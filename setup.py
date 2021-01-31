@@ -6,7 +6,7 @@ with open("LICENSE", "r") as f:
 
 setup(
     name="sRemo",
-    version="1.0.0",
+    version="1.0.1",
     author="zunda(@zunda_pixel)",
     author_email="zunda.pixel@gmail.com",
     description="Python client for sRemo(sCloud) API",

@@ -1,5 +1,3 @@
-![Upload Python Package](https://github.com/zunda-pixel/sRemo/workflows/Upload%20Python%20Package/badge.svg)
-
 # sRemoAPI
 sRemoAPI is a Python client for the [sCloud API](https://sremosup.socinno.com/page-2872/).
 

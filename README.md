@@ -1,5 +1,5 @@
-# sRemoAPI
-sRemoAPI is a Python client for the [sCloud API](https://sremosup.socinno.com/page-2872/).
+# sRemoPyPI
+sRemoPyPI is a Python client for the [sCloud API](https://sremosup.socinno.com/page-2872/).
 
 ## sCloud API
 [sCloud API](https://sremosup.socinno.com/page-2872/)とはSocinnoが販売しているスマートリモコン「sRemoシリーズ」のAPIです。
